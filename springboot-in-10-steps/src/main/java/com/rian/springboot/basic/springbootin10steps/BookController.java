@@ -13,6 +13,6 @@ public class BookController {
     public List<Book> getAllBook()
     {
         return Arrays.asList(
-                new Book(1l, "The Hobbit", "Saproludin"));
+                new Book(1l, "The Hobbit Part II", "Saproludin"));
     }
 }
